@@ -43,6 +43,10 @@ int main() {
 		cout << "    G" << vec[i][1] << endl;
 		cout << "    R" << vec[i][2] << endl;
 	}
+	imwrite("pic.jpg", pic);
+	imwrite("picPlus.jpg", picPlus);
+	imwrite("picMine.jpg", picMine);
+	imwrite("picLevel.jpg", picLevel);
 	imshow("pic", pic);
 	imshow("picPlus", picPlus);
 	imshow("picMine", picMine);
