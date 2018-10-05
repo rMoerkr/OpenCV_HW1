@@ -1,3 +1,3 @@
 ﻿  main.cpp
-d:\userfiles\documents\github\opencv_edge\opencv_edge\main.cpp(24): warning C4101: “LevelNumber”: 未引用的局部变量
+d:\userfiles\documents\github\opencv_edge\opencv_edge\main.cpp(26): warning C4101: “LevelNumber”: 未引用的局部变量
   OpenCV_Edge.vcxproj -> D:\UserFiles\Documents\GitHub\OpenCV_Edge\x64\Debug\OpenCV_Edge.exe
